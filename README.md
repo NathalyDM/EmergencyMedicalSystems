@@ -13,5 +13,12 @@
 
 The need to accurately identify the seizure initiation zone in the field of surgery to remove these areas has aroused great interest in their characterization, as well as the mechanisms of seizure initiation and propagation. Epileptic network mapping shows promise and as a useful tool to understand these processes. It can also help identify tissues that need to be removed during surgery to prevent seizures while doing as little damage as possible to normal brain function.
 
-<img src="supp/Inter_ictal_EEG.png" alt="Alt text" title="Figure 1. Topographic analysis of EEG activity in 3 patients during the interictal periods of seizures. For the topographic reconstruction of the EEG signals, the international 10-20 electrode system was used. What is observed in the image is the estimation of the spectral power pro welch. The seizure onset zone is located in the central part of the brain.">
+
+<img src="supp/Inter_ictal_EEG.png" alt="Alt text">
+
+**Figure 1. Topographic analysis of EEG activity in 3 patients during the interictal periods of seizures. For the topographic reconstruction of the EEG signals, the international 10-20 electrode system was used** What is observed in the image is the estimation of the spectral power by welch. The seizure onset zone is located in the front part of the brain.
+
+<img src="supp/Ictal_EEG.png" alt="Alt text">
+
+**Figure 1. Topographic analysis of EEG activity in 3 patients during the ictal periods of seizures. For the topographic reconstruction of the EEG signals, the international 10-20 electrode system was used** What is observed in the image is the estimation of the spectral power by welch. The seizure onset zone is located in the central part of the brain.
 
