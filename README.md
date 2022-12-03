@@ -1,6 +1,7 @@
 # UnderstandingSeizures
 
 <img src="supp/main_figure.png" alt="Alt text" title="">
+⚠️ ⚠️  Repositoy in progress ⚠️ ⚠️ 
 
 <p class="text-justify">
 
@@ -60,29 +61,55 @@ For the design of a device that is capable of monitoring patients in a clinic, t
 
 ### References 
 [1]	NIH. «Epilepsia», Accedido: 29 de noviembre de 2022. [En línea]. Disponible en: https://medlineplus.gov/spanish/epilepsy.html
+
 [2] Ministerio de la Mujer y Poblaciones Vulnerables - MIMP. Consejo Nacional para la Integración de la Persona con Discapacidad. «El 75% de las personas que tienen epilepsia no acuden a los establecimientos de salud para recibir tratamiento médico adecuado». Accedido: 29 de noviembre de 2022. [En línea]. Disponible en: https://www.gob.pe/institucion/conadis/noticias/342373-el-75-de-las-personas-que-tienen-epilepsia-no-acuden-a-los-establecimientos-de-salud-para-recibir-tratamiento-medico-adecuado
+
 [3]	INCN. «Epilepsia», Accedido: 29 de noviembre de 2022. [En línea]. Disponible en: https://www.incn.gob.pe/servicios/neurologia/epilepsia/
+
 [4]	P. Gujarati. «What is Accelerometer and how does it work on smartphones», Accedido: 29 de noviembre de 2022. [En línea]. Disponible en: https://www.techulator.com/resources/8930-How-does-smart-phone-accelerometer-work.aspx
+
 [5]	https://www.ilae.org/files/ilaeGuideline/Definition-2014-Epilepsia-Spanish.pdf
+
 [6]	https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0026-17422016000500037
+
 [7]	http://revzoilomarinello.sld.cu/index.php/zmv/article/view/58
+
 [8]	https://www.acnweb.org/acta/acta_2011_27_Supl1_1_62-67.pdf
+
 [9]	J. Delua. «Supervised vs. Unsupervised Learning: What’s the Difference?», Accedido: 29 de noviembre de 2022. [En línea]. Disponible en: https://www.ibm.com/cloud/blog/supervised-vs-unsupervised-learning
+
 [10]	Javatpoint. «Linear Regression in Machine Learning», Accedido: 29 de noviembre de 2022. [En línea]. Disponible en: https://www.javatpoint.com/linear-regression-in-machine-learning
+
 [11]	Javatpoint. «Linear Discriminant Analysis (LDA) in Machine Learning», Accedido: 29 de noviembre de 2022. [En línea]. Disponible en: https://www.javatpoint.com/linear-discriminant-analysis-in-machine-learning
+
 [12]	Javatpoint. «K-Nearest Neighbor(KNN) Algorithm for Machine Learning», Accedido: 29 de noviembre de 2022. [En línea]. Disponible en: https://www.javatpoint.com/k-nearest-neighbor-algorithm-for-machine-learning
+
 [13]	Javatpoint. «Regression vs. Classification in Machine Learning», Accedido: 29 de noviembre de 2022. [En línea]. Disponible en: https://www.javatpoint.com/regression-vs-classification-in-machine-learning
+
 [14]	Javatpoint. «Naïve Bayes Classifier Algorithm», Accedido: 29 de noviembre de 2022. [En línea]. Disponible en: https://www.javatpoint.com/machine-learning-naive-bayes-classifier
+
 [15]	Javatpoint. «Support Vector Machine Algorithm», Accedido: 29 de noviembre de 2022. [En línea]. Disponible en: https://www.javatpoint.com/machine-learning-support-vector-machine-algorithm
+
 [16]	Javatpoint. «Machine Learning Algorithms», Accedido: 29 de noviembre de 2022. [En línea]. Disponible en: https://www.javatpoint.com/machine-learning-algorithms
+
 [17]	S, Talebi. «The Wavelet Transform », Accedido: 29 de noviembre de 2022. [En línea]. Disponible en: https://towardsdatascience.com/the-wavelet-transform-e9cfa85d7b34
+
 [18] Shoeb, A., Edwards, H., Connolly, J., Bourgeois, B., Ted Treves, S., & Guttag, J. (2004). Patient-specific seizure onset detection. Epilepsy and Behavior, 5(4), 483–498. https://doi.org/10.1016/J.YEBEH.2004.05.005
+
 [19] McKinney, W. (2010). Data Structures for Statistical Computing in Python. Proceedings of the 9th Python in Science Conference, 56–61. https://doi.org/10.25080/MAJORA-92BF1922-00A
+
 [20] MNE — MNE 1.2.2 documentation. (n.d.). Retrieved December 1, 2022, from https://mne.tools/stable/index.html
+
 [21] Karoly, P. J., Stirling, R. E., Freestone, D. R., Nurse, E. S., Maturana, M. I., Halliday, A. J., Neal, A., Gregg, N. M., Brinkmann, B. H., Richardson, M. P., la Gerche, A., Grayden, D. B., D’Souza, W., & Cook, M. J. (2021). Multiday cycles of heart rate are associated with seizure likelihood: An observational cohort study. EBioMedicine, 72, 103619. https://doi.org/10.1016/j.ebiom.2021.103619
+
 [22] Continuous Wavelet Transform (CWT) — PyWavelets Documentation. (n.d.). Retrieved December 1, 2022, from https://pywavelets.readthedocs.io/en/latest/ref/cwt.html
+
 [23] Géron, A. (2017). Hands-on machine learning with Scikit-Learn and TensorFlow: concepts, tools, and techniques to build intelligent systems. " O'Reilly Media, Inc.
+
 [24] SciKIT. (2022). scikit-learn 1.1.3: sklearn.multiclass.OneVsRestClassifier. Consultado en: https://scikit-learn.org/stable/modules/generated/sklearn.multiclass.OneVsRestClassifier.html Revisado: 01 de diciembre.
+
 [25]	T. Kim et al., «Epileptic Seizure Detection and Experimental Treatment: A Review», Front. Neurol., vol. 11, 2020, Accedido: 29 de noviembre de 2022. [En línea]. Disponible en: https://www.frontiersin.org/articles/10.3389/fneur.2020.00701
+
 [26]	P. J. Karoly et al., «Multiday cycles of heart rate are associated with seizure likelihood: An observational cohort study», eBioMedicine, vol. 72, oct. 2021, doi: 10.1016/j.ebiom.2021.103619.
+
 [27]	S. Sumsky y L. J. Greenfield, «Network analysis of preictal iEEG reveals changes in network structure preceding seizure onset», Sci. Rep., vol. 12, n.o 1, Art. n.o 1, jul. 2022, doi: 10.1038/s41598-022-16877-x.
