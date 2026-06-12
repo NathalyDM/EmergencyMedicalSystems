@@ -1,6 +1,6 @@
 # UnderstandingSeizures
 
-<img src="supp/main_figure.png" alt="Alt text" title="">
+<img src="supp/main_figure2.png" alt="Alt text" title="">
 ⚠️ ⚠️  Repositoy in progress ⚠️ ⚠️ 
 
 <p class="text-justify">
